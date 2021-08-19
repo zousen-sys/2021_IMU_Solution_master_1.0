@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "bledevice.h": "c",
+        "m5stickcplus.h": "c",
+        "m5display.h": "c",
+        "bleserver.h": "c",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "cmath": "cpp"
+    }
+}

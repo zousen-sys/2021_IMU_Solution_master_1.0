@@ -1,0 +1,15 @@
+#include <Picture/ICON_Battery.h>
+#include <Picture/ICON_BLE.h>
+#include <Picture/ICON_Calendar.h>
+#include <Picture/ICON_Charge.h>
+#include <Picture/ICON_Display.h>
+#include <Picture/ICON_HR.h>
+#include <Picture/ICON_Johnson_logo.h>
+#include <Picture/ICON_Sensor.h>
+#include <Picture/ICON_Sensor_TAB.h>
+#include <Picture/ICON_Setting.h>
+#include <Picture/ICON_WiFi.h>
+#include <Picture/ICON_BLE_Statu.h>
+#include <Picture/ICON_WiFi_Statu.h>
+#include <Picture/ICON_Switch_ON.h>
+#include <Picture/ICON_Switch_OFF.h>
